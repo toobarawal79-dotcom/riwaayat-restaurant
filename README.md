@@ -41,3 +41,4 @@ The contact form prepares a message in the visitor's email application. For a tr
 
 ## Updated food images
 The menu cards now use a locally stored set of Pakistani food visuals matching the RIWAAYAT branding: Beef Biryani, Chicken Karahi, Nihari and Seekh Kebab.
+Website deployment update.

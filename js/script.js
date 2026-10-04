@@ -44,8 +44,7 @@ form?.addEventListener("submit", (event) => {
 
 
 // RIWAAYAT online ordering
-const WHATSAPP_NUMBER = "923097596731"; // Replace with RIWAAYAT's real WhatsApp number.
-
+const WHATSAPP_NUMBER = "923097596731";
 const cart = [];
 const cartItems = document.querySelector("#cartItems");
 const cartTotal = document.querySelector("#cartTotal");
